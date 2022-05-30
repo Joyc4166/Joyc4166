@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joyc4166&label=Profile%20views&color=0e75b6&style=flat" alt="joyc4166" /> </p>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/348324/screenshots/18153018/media/837d01ad07e6e8c9718537c76cc710a6.mp4">
+
 - 🌱 I’m currently learning **Vue.js , Next.js**
 
 - 💬 Ask me about **Cloud computing in general**
