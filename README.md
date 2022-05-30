@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joy Chaudhary</h1>
-<h3 align="center">A passionate programmer from India actively trying to figue out stuff.</h3>
+<h3 align="center">A passionate programmer from India actively trying to figure out stuff.</h3>
 <p align="center"><img src="https://c.tenor.com/azZCJ2YpsGgAAAAi/programming.gif" width="150" height="150"/></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joyc4166&label=Profile%20views&color=0e75b6&style=flat" alt="joyc4166" /> </p>
 
