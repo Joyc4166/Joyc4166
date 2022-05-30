@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joy Chaudhary</h1>
 <h3 align="center">A passionate programmer from India actively trying to figue out stuff.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joyc4166&label=Profile%20views&color=0e75b6&style=flat" alt="joyc4166" /> </p>
+<p align="bottom"> <img src="https://komarev.com/ghpvc/?username=joyc4166&label=Profile%20views&color=0e75b6&style=flat" alt="joyc4166" /> </p>
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/348324/screenshots/18153018/media/837d01ad07e6e8c9718537c76cc710a6.mp4">
 
